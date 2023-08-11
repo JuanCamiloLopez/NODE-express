@@ -1,0 +1,4 @@
+# Ignorar archivos y carpetas generados por Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
